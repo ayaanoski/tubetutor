@@ -1,0 +1,12 @@
+{
+  "name": "@kbnet/seed",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "seed": "node ./src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
