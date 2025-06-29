@@ -2,6 +2,12 @@
 
 An AI-powered semantic search tool that helps users find exact moments in educational YouTube videos. Skip the scrubbing and jump straight to the content you need!
 
+![image](https://github.com/user-attachments/assets/c165d2d4-438e-4651-8f85-a0a1a262f5b2)
+![image](https://github.com/user-attachments/assets/0f6f958e-c0af-4a82-89ba-d5fd839edc0d)
+![image](https://github.com/user-attachments/assets/bfc3db08-40be-471e-bab0-dcedcba448d9)
+![image](https://github.com/user-attachments/assets/bcd70c04-2e75-41c7-bd53-c011a925650d)
+
+
 ## ✨ Features
 
 - **Semantic Search**: Find video moments using natural language queries
