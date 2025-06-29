@@ -171,7 +171,7 @@ export default function LandingPage() {
                   <Button
                     onClick={() => setShowAuthModal(true)}
                     variant="outline"
-                    className="border-white/30 text-white hover:bg-white/10 hover:border-white/50 rounded-full px-6 py-2 font-medium transition-all duration-200"
+                    className="bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-200 transform hover:scale-105"
                   >
                     Sign In
                   </Button>
@@ -223,7 +223,7 @@ export default function LandingPage() {
               <Button
                 asChild
                 size="lg"
-                className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-8 py-6 text-lg font-semibold hover:from-blue-600 hover:to-purple-600 transform hover:scale-105 transition-all duration-200"
+                className="bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-200 transform hover:scale-105"
               >
                 <Link href="/search">
                   Get Started Free
@@ -234,7 +234,7 @@ export default function LandingPage() {
               <Button
                 variant="outline"
                 size="lg"
-                className="border-white/20 text-white hover:bg-white/10 px-8 py-6 text-lg"
+                className="bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all duration-200 transform hover:scale-105"
               >
                 <Play className="w-5 h-5 mr-2" />
                 Watch Demo
