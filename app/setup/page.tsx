@@ -24,18 +24,6 @@ export default function SetupPage() {
       status: "pending",
     },
     {
-      id: "create_knowledge_base",
-      title: "Create Knowledge Base",
-      description: "Set up eduvideos_kb knowledge base with ChromaDB",
-      status: "pending",
-    },
-    {
-      id: "setup_initial_data",
-      title: "Load Sample Data",
-      description: "Insert sample educational content for testing",
-      status: "pending",
-    },
-    {
       id: "create_ai_model",
       title: "Create AI Model",
       description: "Set up semantic search AI model",
