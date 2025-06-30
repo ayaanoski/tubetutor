@@ -17,6 +17,9 @@ An AI-powered semantic search tool that helps users find exact moments in educat
 - **Authentication**: Secure sign-in with demo mode available
 - **AI-Powered**: Uses MindsDB for intelligent content matching
 
+## benchmark report : https://drive.google.com/file/d/1-rKRc13aGNbRu0Xtoaz203lirb08v2J-/view?usp=sharing
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
